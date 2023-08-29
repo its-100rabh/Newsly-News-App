@@ -18,7 +18,7 @@ const defaultImageUrls = [
     'https://i.ytimg.com/vi/lO3cDd4Yquw/sddefault.jpg',
     'https://englishworkfromhome.files.wordpress.com/2021/09/breaking-news-poster-design-template-d020bd02f944a333be71e17e3a38db24_screen.jpg',
     'https://static.vecteezy.com/system/resources/previews/001/226/460/original/breaking-news-tv-background-vector.jpg',
-
+    'https://cdn.pixabay.com/photo/2023/06/07/00/24/news-8045904_640.png',
 ];
 
 const Cards: React.FC<Props> = (props) => {
